@@ -1,1 +1,1 @@
-# SinTokenContract
+# SinToken
